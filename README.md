@@ -67,7 +67,7 @@ Do not connect the speaker to GND.
 
 ### Dual Bridge Mode
 
-dual bridge is only meant for experimental purposes use it for less then two 3 inch or >4 OHM drivers if not then it can cause stress to IO pins leading to damage of it 
+Dual bridge is only meant for experimental purposes use it for less then two 3 inch or >4 OHM drivers if not then it can cause stress to IO pins leading to damage 
 
 ``` text
 Speaker 1:
